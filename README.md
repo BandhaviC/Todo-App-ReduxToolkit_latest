@@ -22,4 +22,4 @@ A simple and intuitive ToDo application built with React, Redux Toolkit, and Vit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/simply-kk/Todo-App-ReduxToolkit.git
+   git clone https://github.com/BandhaviC/Todo-App-ReduxToolkit_latest.git
